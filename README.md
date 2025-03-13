@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### I'm a Term 8 Computer Science student in SUTD!
+
 - I'm currently working on:
   - Capstone (Robotics Related with ROS2)
   - Mobile Robotics Module (SLAM, object detection, etc.)
