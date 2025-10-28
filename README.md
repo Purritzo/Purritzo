@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   - Mobile Robotics Module (SLAM, object detection, etc.)
   - Game Design & Development Module
   - SgRiichi UX with Telegram Bot
-  - Stick'em ESP32 optmisation
 - Past Projects & Activities:
   - (2024) Amazon Rainforest Multi-Label classification as part of Computer Vision Module
   - (2024) Water Leak Detection through ESP32 BLE and RPi using Kubernetes as part of IoT Module
