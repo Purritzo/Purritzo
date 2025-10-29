@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a Term 8 Computer Science student in SUTD!
+### I'm a Computer Science fresh graduate from SUTD!
 
 - I'm currently working on:
-  - Capstone (Robotics Related with ROS2)
-  - Mobile Robotics Module (SLAM, object detection, etc.)
-  - Game Design & Development Module
   - SgRiichi UX with Telegram Bot
 - Past Projects & Activities:
+  - (2025) Capstone Robotics for Autonomous Glass Wall Cleaning
+  - (2025) Mobile Robotics Project with classical CV for autonomous racetrack navigation
   - (2024) Amazon Rainforest Multi-Label classification as part of Computer Vision Module
   - (2024) Water Leak Detection through ESP32 BLE and RPi using Kubernetes as part of IoT Module
   - (2022 - 2023) SUTD Organisation of Autonomous Robotics (SOAR) Underwater Unit Electronics Lead, creating PCB and schematics for full system
