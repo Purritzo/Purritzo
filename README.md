@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I'm a Computer Science fresh graduate from SUTD!
 
 - I'm currently working on:
-  - SgRiichi UX with Telegram Bot
+  - Firmware Developer at Stick'Em!
 - Past Projects & Activities:
   - (2025) Capstone Robotics for Autonomous Glass Wall Cleaning
   - (2025) Mobile Robotics Project with classical CV for autonomous racetrack navigation
